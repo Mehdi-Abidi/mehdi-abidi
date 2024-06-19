@@ -1,6 +1,6 @@
 # Hi I'm Mehdi 👋
 
-💫 About Me:
+💫 About Me:<br>
 👋 Hi, I'm Mehdi, a CS undergrad passionate about AI and ML. 🚀<br>
 🔭 Exploring neural networks and NLP.<br>
 🌱 Always learning and open to collaboration.<br>
