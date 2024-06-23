@@ -6,6 +6,7 @@
 🌱 Always learning and open to collaboration.<br>
 📫 Let's connect!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdi-abidi&label=Profile%20views&color=0e75b6&style=flat" alt="mehdi-abidi" /> </p>
 
 ## 🌐 Socials:
 <p><a href="https://www.linkedin.com/in/mehdiiabidii/"><img src="https://img.shields.io/badge/-@mehdi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mehdiiabidii/" alt="LinkedIn Badge"></a></p>
