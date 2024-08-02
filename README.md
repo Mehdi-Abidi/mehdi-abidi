@@ -47,4 +47,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehdi-abidi&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-abidi&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mehdi-Abidi&theme=merko" alt="Mehdi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mehdi-Abidi&theme=onedark" alt="Mehdi" /></a> </p>
