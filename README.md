@@ -1,5 +1,5 @@
 # Hi I'm Mehdi 👋
-<img align="right" src="https://i.pinimg.com/originals/93/bf/e3/93bfe30c88d854ea63b468203386fc0f.jpg" style="height: 190px; border-radius: 50%; margin-left: 20px;" />
+<img align="right" src="https://i.pinimg.com/originals/93/bf/e3/93bfe30c88d854ea63b468203386fc0f.jpg" style="height: 175px; border-radius: 50%; margin-left: 20px;" />
 💫 About Me:<br>
 👋 Hi, I'm Mehdi, a CS undergrad passionate about AI and ML. 🚀<br>
 🔭 Exploring neural networks and NLP.<br>
