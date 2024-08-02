@@ -1,12 +1,14 @@
 # Hi I'm Mehdi 👋
-
+<img align="right" src="https://i.pinimg.com/originals/93/bf/e3/93bfe30c88d854ea63b468203386fc0f.jpg" style="height: 200px; border-radius: 50%; margin-left: 20px;" />
 💫 About Me:<br>
 👋 Hi, I'm Mehdi, a CS undergrad passionate about AI and ML. 🚀<br>
 🔭 Exploring neural networks and NLP.<br>
 🌱 Always learning and open to collaboration.<br>
 📫 Let's connect!
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdi-abidi&label=Profile%20views&color=0e75b6&style=flat" alt="mehdi-abidi" /> </p>
+
 
 ## 🌐 Socials:
 <p><a href="https://www.linkedin.com/in/mehdiiabidii/"><img src="https://img.shields.io/badge/-@mehdi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mehdiiabidii/" alt="LinkedIn Badge"></a></p>
@@ -50,6 +52,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mehdi-Abidi&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mehdi-Abidi&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-Abidi&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mehdi-Abidi&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
