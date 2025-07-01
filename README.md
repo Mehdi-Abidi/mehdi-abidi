@@ -64,10 +64,10 @@
 <table>
   <tr>
     <td valign="top">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=mehdi-abidi&show_icons=true&theme=radical&hide_border=true" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=mehdi-abidi&show_icons=true&theme=algolia&hide_border=true" />
     </td>
     <td valign="top">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-abidi&layout=compact&theme=radical&hide_border=true" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-abidi&layout=compact&theme=algolia&hide_border=true" />
     </td>
   </tr>
 </table>
