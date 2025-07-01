@@ -60,7 +60,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-# 📊 GitHub Stats
+# Stats
 <table>
   <tr>
     <td valign="top">
@@ -68,11 +68,6 @@
     </td>
     <td valign="top">
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-abidi&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-abidi&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
