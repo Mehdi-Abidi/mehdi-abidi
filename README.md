@@ -71,7 +71,7 @@
     </td>
     <td valign="top">
       <a href="https://git.io/streak-stats">
-        <img height="200" src="https://streak-stats.demolab.com?user=mehdi-abidi&theme=default" />
+        [![GitHub Streak](https://streak-stats.demolab.com?user=Mehdi-Abidi&theme=algolia)](https://git.io/streak-stats)
       </a>
     </td>
   </tr>
