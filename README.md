@@ -70,9 +70,7 @@
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-abidi&layout=compact&theme=algolia&hide_border=true" />
     </td>
     <td valign="top">
-      <a href="https://git.io/streak-stats">
-        [![GitHub Streak](https://streak-stats.demolab.com?user=Mehdi-Abidi&theme=algolia)](https://git.io/streak-stats)
-      </a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mehdi-Abidi&theme=algolia" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
