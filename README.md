@@ -61,19 +61,17 @@
 
 
 # My Stats
-<table>
-  <tr>
-    <td valign="top">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=mehdi-abidi&show_icons=true&theme=algolia&hide_border=true" />
-    </td>
-    <td valign="top">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-abidi&layout=compact&theme=algolia&hide_border=true" />
-    </td>
-    <td valign="top">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mehdi-Abidi&theme=algolia" alt="GitHub Streak" /></a>
-    </td>
-  </tr>
-</table>
+
+<td valign="top">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=mehdi-abidi&show_icons=true&theme=algolia&hide_border=true" />
+</td>
+<td valign="top">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-abidi&layout=compact&theme=algolia&hide_border=true" />
+</td>
+<td valign="top">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mehdi-Abidi&theme=algolia" alt="GitHub Streak" /></a>
+</td>
+
 
 
 
