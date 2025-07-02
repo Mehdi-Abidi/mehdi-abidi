@@ -60,7 +60,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-# Stats
+# My Stats
 <table>
   <tr>
     <td valign="top">
@@ -69,8 +69,14 @@
     <td valign="top">
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-abidi&layout=compact&theme=algolia&hide_border=true" />
     </td>
+    <td valign="top">
+      <a href="https://git.io/streak-stats">
+        <img height="200" src="https://streak-stats.demolab.com?user=mehdi-abidi&theme=default" />
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 ## 🏆 GitHub Trophies
