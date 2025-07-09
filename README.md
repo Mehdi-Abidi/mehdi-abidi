@@ -13,8 +13,8 @@
 
 
 ## 🌐 Socials:
-<p><a href="https://www.linkedin.com/in/mehdiiabidii/"><img src="https://img.shields.io/badge/-@mehdi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mehdiiabidii/" alt="LinkedIn Badge"></a>
-<a href="mailto:mehdiali78666@gmail.com"><img src="https://img.shields.io/badge/Email-mehdiali78666@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
+<p><a href="https://www.linkedin.com/in/mehdiiabidii/"><img src="https://img.shields.io/badge/-@mehdi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mehdiiabidii/" alt="LinkedIn Badge"></a><br>
+<a href="mailto:mehdiali78666@gmail.com"><img src="https://img.shields.io/badge/Email-mehdiali78666@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a><br>
 <a href="https://leetcode.com/u/Mehdi_Abidi/">
     <img src="https://img.shields.io/badge/LeetCode-Mehdi__Abidi-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
