@@ -77,9 +77,11 @@
 <td valign="top">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mehdi-abidi&theme=algolia" alt="GitHub Streak" /></a>
 </td>
+<td valign="top">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdi-abidi&theme=algolia" alt="Profile Summary" />
+</td>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-abidi&theme=algolia" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-abidi&theme=github-dark" alt="Activity Graph" />
 </div>
 
 
