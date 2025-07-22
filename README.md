@@ -77,6 +77,9 @@
 <td valign="top">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mehdi-abidi&theme=algolia" alt="GitHub Streak" /></a>
 </td>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-abidi&theme=github-dark" alt="Activity Graph" />
+</div>
 
 
 
